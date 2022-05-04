@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 630000169
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64/android_gradle_build.json due to:",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1101964700
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -547033844
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 151356746
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -570509772
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64\u0027",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -228330919
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64\u0027",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2062951987
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/sunzhibin/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/sunzhibin/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/sunzhibin/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/sunzhibin/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/sunzhibin/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/build/intermediates/cxx/Debug/5y4uj613/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/build/intermediates/cxx/Debug/5y4uj613/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -901513805
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/sunzhibin/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/sunzhibin/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/sunzhibin/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/sunzhibin/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/sunzhibin/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/build/intermediates/cxx/Debug/5y4uj613/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/build/intermediates/cxx/Debug/5y4uj613/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -700929964
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64/compile_commands.json.bin normally",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1944490290
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -882856023
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/.cxx/Debug/5y4uj613/x86_64/metadata_generation_command.txt",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1717711854
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/sunzhibin/Projects/a/AndroidOpencvWechatQrcodeLibrary/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1055217061
+  }
+]
