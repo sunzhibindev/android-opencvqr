@@ -1,4 +1,4 @@
-# 编译opencv
+# 编译opencv 4.5.5
 参考自：https://blog.csdn.net/wang382758656/article/details/114762661
 
 opencv 模块介绍：http://qt.digitser.net/opencv/4.2.0/zh-CN/index.html
