@@ -44,6 +44,7 @@ android {
             aidl.srcDirs = ['src']
             res.srcDirs = ['res']
             manifest.srcFile 'AndroidManifest.xml'
+            assets.srcDirs = ['assets']
         }
     }
 
